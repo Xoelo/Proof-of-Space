@@ -1,5 +1,5 @@
 """
-Simulación sencilla de Proof of Capacity (PoC)
+Simulación sencilla de Proof of Space (PoS)
 ----------------------------------------------
 1. PLOTTING: cada minero precalcula y guarda hashes en "disco" (su plot).
 2. RETO:     cada bloque genera un reto a partir del bloque anterior.

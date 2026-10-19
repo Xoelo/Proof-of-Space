@@ -1,11 +1,11 @@
 """
-Proof of Capacity (PoC) - versión PASO A PASO
+Proof of Space (PoS) - versión PASO A PASO
 ---------------------------------------------
 Usa pocos nonces para poder ver los datos de cada minero.
 El programa se detiene en cada paso: pulsa Enter para avanzar.
 
-    python proof_of_capacity_paso_a_paso.py          -> con pausas
-    python proof_of_capacity_paso_a_paso.py --auto   -> sin pausas
+    python proof_of_space_paso_a_paso.py          -> con pausas
+    python proof_of_space_paso_a_paso.py --auto   -> sin pausas
 """
 import hashlib
 import sys
